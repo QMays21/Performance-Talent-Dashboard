@@ -12,4 +12,4 @@ This Power BI dashboard was designed to monitor and track development goal progr
 - FileMaker Pro (2nd data source)
 - SQL (data preparation)
 ## Dashboard Preview
-![Dashboard Screenshot](dashboard-overview.png)
+![Dashboard Screenshot](TalentDB 1st page)
